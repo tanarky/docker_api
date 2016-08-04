@@ -1,3 +1,3 @@
 #!/bin/bash
 
-foreman start -p 80
+foreman start -p 9999
