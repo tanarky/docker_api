@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-@dir='/Users/satoshi.tanaka/git/docker_api'
+@dir='.'
 working_directory @dir
 worker_processes 2
 

@@ -6,11 +6,7 @@ module Template
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-<<<<<<< HEAD
-  <title>Timer</title>
-=======
   <title>Clock</title>
->>>>>>> ddc528317c45a451b0e8507979cdc926ac4c1df5
   <link href='https://fonts.googleapis.com/css?family=$font-family$' rel='stylesheet' type='text/css'>
 </head>
 <body>

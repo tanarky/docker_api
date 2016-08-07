@@ -3,10 +3,10 @@ GEM
   specs:
     daemons (1.2.3)
     eventmachine (1.2.0.1)
+    kgio (2.10.0)
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
-    kgio (2.10.0)
     raindrops (0.17.0)
     sinatra (1.4.7)
       rack (~> 1.5)
